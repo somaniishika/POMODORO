@@ -1,4 +1,4 @@
 # POMODORO
 
-updated deployment link
+updated deployment link:
 https://somaniishika.github.io/POMODORO/
